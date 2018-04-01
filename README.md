@@ -1,2 +1,3 @@
-# mood-lifters
-It is a javascript based random quote display that churns out cute and motivational quotes on a click of a button! Well. that's a great description...
+# MoodLifters | Random Motivational Quotes | Siddhant Sharma
+
+It is a javascript based random quote display that churns out cute and motivational quotes one after the other!
