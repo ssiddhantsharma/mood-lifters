@@ -21,9 +21,9 @@ html, body {
   width: 60vw;
 }
 .footer {
-  font-size: 15px;
+  font-size: 13px;
   position: absolute;
-  bottom: 10px;
+  bottom: 8px;
 }
 a {
   color: inherit;
